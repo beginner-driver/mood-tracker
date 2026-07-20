@@ -2,6 +2,9 @@
 
 지금의 기분을 색으로 기록하는 과제용 웹앱. React + Vite 프론트, Supabase 백엔드(Postgres + Auth + RLS), GitHub Pages 배포.
 
+[https://chictimin.github.io/mood-tracker/](https://chictimin.github.io/mood-tracker/)
+실제 릴리즈 된 페이지
+
 ## 기능 (CRUD)
 - **C**: 회원가입(이메일), 기분 로그 생성
 - **R**: 로그인, 내 로그 목록 조회 + 오늘 필터
